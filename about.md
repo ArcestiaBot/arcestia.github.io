@@ -13,7 +13,7 @@ icons: true
 Laurensius Jeffrey Chandra alias Arcestia, the open source developer, Social Media Addict, and Part Time Writer.
 I was Actively contributing in local social media, beside been an contributors at some media i active taking part
 of Kwikku, MindTalk, Cafezit, and some Digital Startup as User and Bug Finder.
-
+In 2015 i was Founded No-Logic Design, The Digital Creative Agency
 
 Feel free to e-mail him at <arcestia@vivaldi.net> or you can find him on these social networks:
 
