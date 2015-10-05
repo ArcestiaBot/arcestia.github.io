@@ -77,7 +77,7 @@ disqus:
 #build config
 highlighter: pygments
 markdown: kramdown
-timezone: America/New_York
+timezone: Asia/Jakarta
 encoding: UTF-8
 
 gems:
