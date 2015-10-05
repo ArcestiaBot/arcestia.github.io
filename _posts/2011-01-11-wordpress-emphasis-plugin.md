@@ -20,7 +20,7 @@ tags:
 post_format: [ ]
 ---
 
-![Screenshot of the plugin in use](http://ben.balter.com/wp-content/uploads/2011/01/emphasis-screenshot.png "Screenshot of Emphasis WordPress Plugin"){: .alignleft } The New York Times [recently open-sourced](http://open.blogs.nytimes.com/2011/01/11/emphasis-update-and-source/){: data-proofer-ignore="true"} their nifty wizardry which allows users to highlight and link to specific text within an article or post. In their own words:
+![Screenshot of the plugin in use](https://blog.arcestia.my.id/wp-content/uploads/2011/01/emphasis-screenshot.png "Screenshot of Emphasis WordPress Plugin"){: .alignleft } The New York Times [recently open-sourced](http://open.blogs.nytimes.com/2011/01/11/emphasis-update-and-source/){: data-proofer-ignore="true"} their nifty wizardry which allows users to highlight and link to specific text within an article or post. In their own words:
 
 > Emphasis provides dynamic paragraph-specific anchor links and the ability to highlight text in a document, all of which is made available in the URL hash so it can be emailed, bookmarked, or shared.
 
@@ -32,5 +32,5 @@ The "deep links" plugin allows for permalinking and highlighting of text on a pa
 
 Neat, huh? [Download it][3] today.
 
-*Enjoy using WP Emphasis? Feel free to [make a small donation](http://ben.balter.com/donate/ "Donate") to support the software's continued development.*
+*Enjoy using WP Emphasis? Feel free to [make a small donation](https://blog.arcestia.my.id/donate/ "Donate") to support the software's continued development.*
 

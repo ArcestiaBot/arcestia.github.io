@@ -42,7 +42,7 @@ How? For one, involvement in existing open source projects [^8] would surely sen
 
 Put simply, it's about what role we are going to play, not what rights we are going to receive. Let's at least get the source code, then we can go back to our regularly scheduled holy wars over licensing.
 
-*As always, [views are my own](http://ben.balter.com/fine-print/).*
+*As always, [views are my own](https://blog.arcestia.my.id/fine-print/).*
 
 [^1]: I'd argue that all software, even government funded software should still be licensed under a traditional open source license, to resolve any legal ambiguity when used abroad under the terms of various international copyright treaties and agreements
 [^2]: Although citizen-contributions to that project would theoretically not be public domain, thus necessitating a license, which should be clarified in the project's documentation at the time of release to avoid potential issues with 21 U.S.C. § 1342.
@@ -51,5 +51,5 @@ Put simply, it's about what role we are going to play, not what rights we are go
 [^5]: FAR 52.227-14(c)(1)(i). Even if the contracting officer grants such rights, they do not take effect unless the contractor includes a copyright notice at the time of delivery, acknowledging the government's sponsorship and indicating the contract number under which it was procured. See FAR 27.404(a)(5).
 [^6]: General counsels across government already have enough ammunition to stymy progress.
 [^7]: Often the last and least seen step in the enterprise development process.
-[^8]: There's been [exactly one pull request to date](http://ben.balter.com/2012/04/15/cfpb-accepts-first-citizen-submitted-pull-request-on-behalf-of-federal-government/) across all government github repos.
+[^8]: There's been [exactly one pull request to date](https://blog.arcestia.my.id/2012/04/15/cfpb-accepts-first-citizen-submitted-pull-request-on-behalf-of-federal-government/) across all government github repos.
 

@@ -46,8 +46,8 @@ Consider this: as Comcast's customers increasingly [look to their computers for 
 
 Any time the nation's [largest](http://www.comcast.com/About/PressRelease/PressReleaseDetail.ashx?PRID=887) anything makes a "take it or leave it" offer demanding a fee for an otherwise mutually beneficial relationship like [peering](http://en.wikipedia.org/wiki/Peering), the transaction deserves a certain degree of scrutiny, especially when it creates a catch-22 in that company's favor. Is Comcast *trying* to kill the Internet? Probably not. *Will* they? I guess we're going to have to wait and see.
 
-*Views represent [my own](http://ben.balter.com/fine-print/).*
+*Views represent [my own](https://blog.arcestia.my.id/fine-print/).*
 
 \[photo: [gnackgnackgnack](http://www.flickr.com/photos/gnackgnackgnack/3592493739/)\]
 
-[1]: http://ben.balter.com/wp-content/uploads/2010/11/3592493739_6b0b0d3f45_b.jpg
+[1]: https://blog.arcestia.my.id/wp-content/uploads/2010/11/3592493739_6b0b0d3f45_b.jpg

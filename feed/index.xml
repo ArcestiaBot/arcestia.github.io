@@ -7,8 +7,8 @@
   {% assign url_base = site.github.url %}
 {% endif %}
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <link href="http://ben.balter.com/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://ben.balter.com/" rel="alternate" type="text/html" />
+  <link href="https://blog.arcestia.my.id/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://blog.arcestia.my.id/" rel="alternate" type="text/html" />
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ url_base | xml_escape }}/</id>
   <title>{{ site.name | xml_escape }}</title>

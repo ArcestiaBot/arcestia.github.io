@@ -18,7 +18,7 @@ tags:
 post_format: [ ]
 ---
 
-![Groupon logo on an office door](http://ben.balter.com/wp-content/uploads/2011/06/5554901181_664eac93a6_b-300x200.jpg "Groupon"){: .alignleft}
+![Groupon logo on an office door](https://blog.arcestia.my.id/wp-content/uploads/2011/06/5554901181_664eac93a6_b-300x200.jpg "Groupon"){: .alignleft}
 
 Despite the hype, daily deal sites like Groupon and LivingSocial are not the next wave of e-commerce. Not only are they bad for merchants, their business model simply isn't sustainable as established firms begin to enter the already-crowded market.
 

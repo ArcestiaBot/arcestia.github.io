@@ -24,7 +24,7 @@ tags:
   - wordpress
 post_format: [ ]
 ---
-[![Dashboard all the things](http://ben.balter.com/wp-content/uploads/2012/07/dashboard-all-the-things-300x225.jpeg){: .alignright}](http://ben.balter.com/wp-content/uploads/2012/07/dashboard-all-the-things.jpeg)
+[![Dashboard all the things](https://blog.arcestia.my.id/wp-content/uploads/2012/07/dashboard-all-the-things-300x225.jpeg){: .alignright}](https://blog.arcestia.my.id/wp-content/uploads/2012/07/dashboard-all-the-things.jpeg)
 
 I was recently asked how I would architect a personalized dashboard experience for visitors to a large, customer-facing website. My response? *I wouldn't.*
 
