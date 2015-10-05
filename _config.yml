@@ -70,9 +70,9 @@ defaults:
 
 #disqus widget
 disqus:
-  shortname: 'benbalter'
+  shortname: 'arcestia'
   count: 5
-  api_key: "OQ5OlN2AtWDfIQ0bjIGwdfq9SsEB3P8NdzhYTRak7R45KeAD744aVIqJZDYqvmuL"
+  api_key: "gy7BKcBNNp58VBQMCbi7Fdm0o3JSSbcvu0m4LBUWmRrhkrJaQrVxNQaNj2sC4dg1"
 
 #build config
 highlighter: pygments
