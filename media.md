@@ -1,15 +1,8 @@
 ---
-title: Media
 layout: default
 permalink: /media/
-id: /media
 ---
-{% if site.github.url %}
-  {% assign url_base = site.github.url %}
-{% else %}
-  {% assign url_base = site.url %}
-{% endif %}
-<ul class="media">
+<ul class="posts">
 {% for page in site.media %}
   <li class="post">
     <div class="row">

@@ -67,6 +67,13 @@ defaults:
     values:
       layout: "post"
       comments: true
+  -
+    scope:
+      path: "/media"
+      type: "media"
+    values:
+      layout: "post"
+      comments: true
 
 #disqus widget
 disqus:
