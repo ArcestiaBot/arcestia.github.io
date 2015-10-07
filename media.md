@@ -1,4 +1,5 @@
 ---
+title: Media
 layout: default
 permalink: /media/
 id: /press
