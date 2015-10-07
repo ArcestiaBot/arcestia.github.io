@@ -6,8 +6,6 @@ permalink: /clips/
 id: /clips
 ---
 
-*I regularly speak with the press about open source, open data, and innovation within government. Below are some highlights:*
-
 <ul id="clips">
 {% for clip in site.data.clips | sort: "date" | reverse %}
   <li>
