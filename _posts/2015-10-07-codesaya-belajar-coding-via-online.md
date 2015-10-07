@@ -4,7 +4,7 @@ excerpt: "CodeSaya: Belajar Coding via Online secara interaktif."
 ---
 
 *This post originally published on [Selular.id](http://selular.id/news/startup/2015/10/codesaya-belajar-coding-via-online/).*
-![WP Resume](https://blog.arcestia.my.id/img/codesaya.jpg "Screenshot of Codesaya")
+![WP Resume](https://blog.arcestia.my.id/img/2015/10/codesaya.jpg "Screenshot of Codesaya")
 
 Dunia sudah semakin digital, sehingga bangsa Indonesia harus melahirkan banyak sumber daya manusia yang ahli coding agar tidak semakin ketinggalan. Potensi dari masyarakat Indonesia dianggap tidak kalah cerdas dengan orang-orang di negara lain khususnya di negara maju. Kendalanya, hanya karena minim sumber informasi dan pembelajaran tentang programming atau coding.
 
