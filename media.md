@@ -2,7 +2,7 @@
 title: Media
 layout: default
 permalink: /media/
-id: /press
+id: /media
 ---
 {% if site.github.url %}
   {% assign url_base = site.github.url %}
