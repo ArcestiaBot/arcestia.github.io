@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /media/
+permalink: /Clips/
 ---
 <ul class="posts">
 {% for page in site.media %}
