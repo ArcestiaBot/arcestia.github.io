@@ -9,7 +9,7 @@ id: /press
 {% else %}
   {% assign url_base = site.url %}
 {% endif %}
-<ul class="posts">
+<ul class="media">
 {% for page in site.media %}
   <li class="post">
     <div class="row">
