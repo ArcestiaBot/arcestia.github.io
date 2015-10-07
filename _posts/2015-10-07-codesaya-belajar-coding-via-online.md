@@ -1,6 +1,6 @@
 ---
-title: Bringing open source workflows to the enterprise
-excerpt: "How open source workflows and philosophies can be leveraged by the enterprise to produce more modern software, even if that software ultimately remains closed source."
+title: CodeSaya: Belajar Coding via Online
+excerpt: "CodeSaya: Belajar Coding via Online secara interaktif."
 ---
 
 *This post originally published on [Selular.id](http://selular.id/news/startup/2015/10/codesaya-belajar-coding-via-online/).*
