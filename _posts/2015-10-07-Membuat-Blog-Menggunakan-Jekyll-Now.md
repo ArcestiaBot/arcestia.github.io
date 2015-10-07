@@ -5,16 +5,6 @@ excerpt: "Belajar Membuat Blog Menggunakan JekyllNow dan Github Pages Secara Ste
 
 ![JekyllNow](https://blog.arcestia.my.id/img/2015/10/jekyllnow-featured.jpg "Screenshot of JekyllNow")
 
-[Jekyll](http://github.com/jekyll/jekyll) is a static site generator that's perfect for GitHub hosted blogs.
-
-[Jekyll Now](http://github.com/barryclark/jekyll-now) makes it easier to create a Jekyll blog, by eliminating a lot of the up front setup.
-
-- You don't need to touch the command line
-- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
-- You don't need to install runtime dependancies like markdown processors, Pygments, etc
-- It's easy to try out, you can just delete your forked repository if you don't like it
-- In a few minutes you'll be set up with a minimal, responsive blog just like this one—giving you more time to spend on making your blog awesome!
-
 ## Jekyll Now Features
 
 ✓ _Command-line free fork-first workflow_, using GitHub.com to create, customize and post to your blog  
