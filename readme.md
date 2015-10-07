@@ -1,6 +1,6 @@
 # blog.arcestia.my.id
 
-The personal website of Ben Balter. Built using Jekyll, GitHub Pages, and Bootstrap. See [humans.txt](http://blog.arcestia.my.id/humans.txt) for more infos.
+The personal website of Laurensius Jeffrey Chandra. Built using Jekyll, GitHub Pages, and Bootstrap. See [humans.txt](http://blog.arcestia.my.id/humans.txt) for more infos.
 
 ## License
 
