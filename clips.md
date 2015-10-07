@@ -1,9 +1,9 @@
 ---
-title: Press
-excerpt: "Select media clips of Laurensius Jeffrey Chandra in the press talking about open source, open data, and government innovation."
+title: Clips
+excerpt: "Select media clips of Laurensius Jeffrey Chandra."
 layout: page
-permalink: /press/
-id: /press
+permalink: /clips/
+id: /clips
 ---
 
 *I regularly speak with the press about open source, open data, and innovation within government. Below are some highlights:*
